@@ -11,9 +11,9 @@ _Replace anything surrounded by the `< >` symbols (including the < >)._
  < Provide a  description of the courses late policy >
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < #1 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < # >/4
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
  < What parts of the project you were not able to complete >
