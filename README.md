@@ -11,15 +11,15 @@ _Replace anything surrounded by the `< >` symbols (including the < >)._
  < Provide a  description of the courses late policy >
 
 ## GRACE DAYS
-Grace days used for this assignment: < #1 >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/4
+Grace days remaining: 5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+none
 
 ## REFERENCES:
- < List any outside resources used >
+none
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+on class website it says this lab is due monday feb 7, but on brightspace it says tuesday feb 8. so, im unsure if i should be using a grace day. sorry for the confusion i was looking at just the brightspace. 
