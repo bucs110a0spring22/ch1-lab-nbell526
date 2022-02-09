@@ -22,4 +22,4 @@ none
 none
 
 ## MISCELLANEOUS COMMENTS:
-on class website it says this lab is due monday feb 7, but on brightspace it says tuesday feb 8. so, im unsure if i should be using a grace day. sorry for the confusion i was looking at just the brightspace. 
+on class website it says this lab is due monday feb 7 at 11:59pm, but on brightspace it says tuesday feb 9 at 11:59pm so, im unsure if i should be using a grace day. sorry for the confusion i was looking at just the brightspace. 
